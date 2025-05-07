@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("alot");
+    printf("please see current status.\n");
     return 0;
 }
