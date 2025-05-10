@@ -2,3 +2,4 @@ debt.
 income.
 expend .
 deposit .
+expect .
